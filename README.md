@@ -1,10 +1,10 @@
 # Assignment #1: UI Composition - Group No. 2
 
 ## Group Members:
-- **Shayan Haider** (21k-3211)
-- **Ahmed Ali** (21k-3212)
-- **Taha Hassan** (21k-4680)
-- **Hasan Iqbal** (21k-3297)
+- **Shayan Haider** (21K-3211)
+- **Ahmed Ali** (21K-3212)
+- **Taha Hassan** (21K-4680)
+- **Hasan Iqbal** (21K-3297)
 
 ----
 
